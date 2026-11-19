@@ -1,0 +1,31 @@
+name: ✨ Feature request
+description: Suggest an improvement or a new capability.
+title: "feat: "
+labels: ["enhancement", "triage"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: The problem
+      description: What are you trying to do, and what gets in the way? Start from the user need, not the solution.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: How you imagine it working.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: How will we know it is done?
+      description: Acceptance criteria, as a short checklist if possible.
+      placeholder: |
+        - [ ] …
+        - [ ] …

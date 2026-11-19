@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔐 Report a security vulnerability
+    url: https://github.com/th1nkdev-io/.github/blob/main/SECURITY.md
+    about: Never in a public issue. Please report privately as described in our security policy.
+  - name: 🚀 Start a project with Th1nkDev
+    url: https://th1nkdev.com/start-a-project
+    about: Have a product to build or a team to train? Tell us about it.
+  - name: 💬 Get help or contact us
+    url: https://github.com/th1nkdev-io/.github/blob/main/SUPPORT.md
+    about: Where to ask questions and how to reach us.
