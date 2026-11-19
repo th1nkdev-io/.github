@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1272" height="144" viewBox="0 0 1272 144" role="img" aria-labelledby="s">
+  <title id="s">Since 2015 · 60+ projects delivered · 120+ talents trained · 5 countries on 3 continents</title>
+  <style>
+    @keyframes rise { from { opacity: 0; transform: translateY(10px) } to { opacity: 1; transform: none } }
+    .t { animation: rise .7s ease-out both }
+    @media (prefers-reduced-motion: reduce) { .t { animation: none } }
+  </style>
+  <g font-family="Inter, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+  <g class="t" style="animation-delay:0.00s">
+    <rect x="8" y="8" width="300" height="128" rx="16" fill="#ffffff" stroke="#DADEFD" stroke-width="1.5"/>
+    <rect x="32" y="30" width="28" height="4" rx="2" fill="#6272F4"/>
+    <text x="32" y="88" fill="#0d1035" font-size="44" font-weight="800">2015</text>
+    <text x="32" y="116" fill="#4D5ADE" font-size="17" font-weight="500">building since</text>
+  </g>
+  <g class="t" style="animation-delay:0.15s">
+    <rect x="324" y="8" width="300" height="128" rx="16" fill="#ffffff" stroke="#DADEFD" stroke-width="1.5"/>
+    <rect x="348" y="30" width="28" height="4" rx="2" fill="#6272F4"/>
+    <text x="348" y="88" fill="#0d1035" font-size="44" font-weight="800">60+</text>
+    <text x="348" y="116" fill="#4D5ADE" font-size="17" font-weight="500">projects delivered</text>
+  </g>
+  <g class="t" style="animation-delay:0.30s">
+    <rect x="640" y="8" width="300" height="128" rx="16" fill="#ffffff" stroke="#DADEFD" stroke-width="1.5"/>
+    <rect x="664" y="30" width="28" height="4" rx="2" fill="#6272F4"/>
+    <text x="664" y="88" fill="#0d1035" font-size="44" font-weight="800">120+</text>
+    <text x="664" y="116" fill="#4D5ADE" font-size="17" font-weight="500">talents trained</text>
+  </g>
+  <g class="t" style="animation-delay:0.45s">
+    <rect x="956" y="8" width="300" height="128" rx="16" fill="#ffffff" stroke="#DADEFD" stroke-width="1.5"/>
+    <rect x="980" y="30" width="28" height="4" rx="2" fill="#6272F4"/>
+    <text x="980" y="88" fill="#0d1035" font-size="44" font-weight="800">5 · 3</text>
+    <text x="980" y="116" fill="#4D5ADE" font-size="17" font-weight="500">countries · continents</text>
+  </g>
+  </g>
+</svg>
